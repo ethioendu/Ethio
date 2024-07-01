@@ -11,4 +11,4 @@ Technology has become invaluable in every aspect of our lives - including volunt
 #### Ethio-Debo APP
 Ethio-Debo APP is a way to connect volunteers to voluntary work. This App contains landing pages, volunteer forms and voluntary profiles that would be helpful for NGOs to choose from the voluntary applicant. the App is designed to be simple so that people only get what they are looking for which is voluntary work so the landing page immediately direct to the project page the project page direct to the volunteers form for the NGos they there is a form and log in page the login page is for the accepted and the registered NGOs
 
-![Screenshot (70)](https://github.com/ethioendu/Ethio-Debo-project/assets/117819326/e6cd6088-7b51-4e74-ac2f-412a4306be68)
+![Screenshot (100)](https://github.com/ethioendu/Ethio-Debo-project/assets/117819326/f3dc71f7-e02a-44e6-82ad-a9d708f8b552)
